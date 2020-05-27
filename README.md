@@ -28,7 +28,7 @@ Hello,</br>The special effect of Hat,Masks,Goggles filter is that users can put 
 <h3 align="center"> <b>How to run the Project …???</b> </h3>  
 
 -	<b>Path</b>  
-			FacePart_Detection_SourceFile/*.py.  
+			HatFilter_MaskFilter_GogglesFilter_SourceFile/*.py.  
 			Note:- * means any file.
 
 -	<b>Note:-</b>  
